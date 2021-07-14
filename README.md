@@ -1,7 +1,7 @@
 # Computer_Vision
 Image/Video Recognition and Classification Systems
 
-This repository applies computer vision systems and applies various techniques such as object detection, recognition, tracking and pose estimation.
+This repository applies computer vision systems through techniques such as object detection, recognition, tracking and pose estimation.
 
 
 # Hand Detection and Tracking
