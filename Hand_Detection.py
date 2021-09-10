@@ -5,10 +5,9 @@ import time
 # To open the camera for video capturing.
 cap = cv.VideoCapture(0)
 
-# Class
+
 mpHands = mp.solutions.hands
 
-# Instantiating the method for hand detection
 hands = mpHands.Hands()
 
 # To draw lines on the hand
